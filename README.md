@@ -75,6 +75,7 @@ See schedule for due date.
 
 Here is the corrected table with the numbers in the second column:
 
+| Util                              | Count   |
 |-----------------------------------|---------|
 | \[Start ID\]                      | 1/1     |
 | \[Create Data\]                   | 8/8     |
