@@ -73,32 +73,33 @@ See schedule for due date.
 
 ### Rubrics
 
-| Util                              |          |
-|-----------------------------------|----------|
-| \[Start ID\] 1/1                  |          |
-| \[Create Data\] 8/8               |          |
-| \[Print Data\] 3/3                |          |
-| \[Coding Style\] 2/2              |          |
+Here is the corrected table with the numbers in the second column:
+
+|-----------------------------------|---------|
+| \[Start ID\]                      | 1/1     |
+| \[Create Data\]                   | 8/8     |
+| \[Print Data\]                    | 3/3     |
+| \[Coding Style\]                  | 2/2     |
 | **Sub-total**                     | **14/14**|
-| Publisher                         |          |
-| \[Call Create Data\] 2/2          |          |
-| \[Convert Payload to String\] 2/2 |          |
-| \[Create Client\] 2/2             |          |
-| \[Connect to Server\] 2/2         |          |
-| \[Publish\] 1/1                   |          |
-| \[Print Feedback\] 1/1            |          |
-| \[Close Connection\] 1/1          |          |
-| \[Repeat\] 2/2                    |          |
+| Publisher                         |         |
+| \[Call Create Data\]              | 2/2     |
+| \[Convert Payload to String\]     | 2/2     |
+| \[Create Client\]                 | 2/2     |
+| \[Connect to Server\]             | 2/2     |
+| \[Publish\]                       | 1/1     |
+| \[Print Feedback\]                | 1/1     |
+| \[Close Connection\]              | 1/1     |
+| \[Repeat\]                        | 2/2     |
 | **Sub-total**                     | **13/13**|
-| Subscriber                        |          |
-| \[Create Client\] 2/2             |          |
-| \[Wire Up Handler\] 2/2           |          |
-| \[Connect to Server\] 2/2         |          |
-| \[Subscribe to Topic\] 1/1        |          |
-| \[Print Message\] 1/1             |          |
-| \[Invoke the Loop Forever\] 1/1   |          |
-| \[Handler: Decode Message\] 2/2   |          |
-| \[Handler: Convert to Dict\] 1/1  |          |
-| \[Handler: Print Message\] 1/1    |          |
+| Subscriber                        |         |
+| \[Create Client\]                 | 2/2     |
+| \[Wire Up Handler\]               | 2/2     |
+| \[Connect to Server\]             | 2/2     |
+| \[Subscribe to Topic\]            | 1/1     |
+| \[Print Message\]                 | 1/1     |
+| \[Invoke the Loop Forever\]       | 1/1     |
+| \[Handler: Decode Message\]       | 2/2     |
+| \[Handler: Convert to Dict\]      | 1/1     |
+| \[Handler: Print Message\]        | 1/1     |
 | **Sub-total**                     | **13/13**|
 | **Total**                         | **40/40**|
